@@ -3,6 +3,9 @@
 
 A simple Neovim floating Git Explorer modal.
 
+
+![Git Explorer Screenshot](assets/git_explorer.png)
+
 ## Features
 - Shows Staged / Unstaged / Untracked files
 - Git status icons per section
@@ -15,3 +18,5 @@ A simple Neovim floating Git Explorer modal.
 ### Using packer.nvim
 ```lua
 use 'prasannashrestha011/git-explorer.nvim'
+
+
